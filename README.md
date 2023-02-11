@@ -7,5 +7,5 @@ Adds node and npm info to the default `robbyrussell` theme for zsh. Useful when 
 
 ### Linux with oh-my-zsh
 
-- copy `robbyrussell-with-node-info.zsh-theme` to `~/.oh-my-zsh/themes/robbyrussell.zsh-theme`
+- copy `robbyrussell-with-node-info.zsh-theme` to `~/.oh-my-zsh/themes`
 - update `ZSH_THEME` line in `~/.zshrc` to `ZSH_THEME="robbyrussell-with-node-info"`
